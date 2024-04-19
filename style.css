@@ -1,0 +1,57 @@
+.header, .hero, footer{
+    background-color:#1F2937;
+}
+
+.header_logo{
+    font-size:24px;
+
+}
+
+.header_logo,footer{
+    color:#F9FAF8;
+}
+
+.header_list, .header_links, .hero_text{
+    font-size:18px;
+    color:#E5E7EB;
+}
+
+.header_list{
+    list-style-type:none;
+}
+.header_links{
+    text-decoration: none;
+}
+
+.hero_main{
+    font-size:48px;
+    font-weight:bolder;
+    color: #F9FAF8;
+}
+
+button, .sign_up{
+    background-color:#3882F6;
+}
+
+.info_text{
+    font-size:36px;
+    font-weight:bolder;
+    color:#1F2937;
+}
+
+.quote_block{
+    background-color: #E5E7EB;
+    
+}
+
+.quote_text{
+    font-size:36px;
+    font-style:italic;
+    font-weight:lighter;
+    color:#1F2937;
+}
+
+.image, .hero_image{
+    width:200px;
+
+}
